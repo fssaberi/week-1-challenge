@@ -18,3 +18,5 @@ I updated the title element to give it a descriptive title.
 You can access the GitHub repository here- https://github.com/fssaberi/week-1-challenge.git. 
 
 You can access the webpage here- https://fssaberi.github.io/week-1-challenge/. 
+
+![ScreenShot](/assets/css/images/screenshotwebsitehoriseon.png)
