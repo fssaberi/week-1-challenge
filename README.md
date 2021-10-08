@@ -19,4 +19,4 @@ You can access the GitHub repository here- https://github.com/fssaberi/week-1-ch
 
 You can access the webpage here- https://fssaberi.github.io/week-1-challenge/. 
 
-![ScreenShot](/assets/css/images/screenshotwebsitehoriseon.png)
+![HoriseonWebsite](/Users/fatemehbrizendine/Desktop/projects/school/homework/week-1-challenge/assets/images/screenshotwebsitehoriseon.png)
